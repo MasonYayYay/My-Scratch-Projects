@@ -11,6 +11,6 @@ This is all of my shared projects on Scratch, and information about them. Except
 
 [MasonYayYay's Evolution simulator](https://scratch.mit.edu/projects/1008942105/) This is a simulation of cellular mutation and populate growth.
 
-[MasonYayYay's Platformer](https://scratch.mit.edu/projects/1009557930/) This is a platformer originally posted by 
+[MasonYayYay's Platformer](https://scratch.mit.edu/projects/1009557930/) This is a platformer originally posted by [@AZBIDABOI](scratch.mit.edu/users/AZBIDABOI), what I did is added a new level and changed some level design.
 
 More to come...
